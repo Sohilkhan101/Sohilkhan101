@@ -1,7 +1,7 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Sohil%20Khan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 👋 Hello, I'm Sohil Khan
 Software Engineer | Full-Stack MERN Developer | Backend Enthusiast
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+Scalable+Web+Applications;React.js+%7C+Node.js+%7C+MongoDB;Designing+Clean+Backend+Architectures;1500%2B+DSA+Problems+Solved;Always+Learning+%26+Improving"/> <br/> <a href="https://github.com/Sohilkhan101"> <img src="https://komarev.com/ghpvc/?username=Sohilkhan101&label=Profile%20Views&color=0e75b6&style=flat"/> </a> <a href="https://github.com/Sohilkhan101"> <img src="https://img.shields.io/github/followers/Sohilkhan101?label=Followers&style=flat&logo=github"/> </a> </div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+Scalable+Web+Applications;React.js+%7C+Node.js+%7C+MongoDB;Designing+Clean+Backend+Architectures;1500%2B+DSA+Problems+Solved;Always+Learning+%26+Improving"/> <br/> <a href="https://github.com/Sohilkhan101">  </div>
 
 👨‍💻 About Me
 
@@ -41,21 +41,22 @@ Highlights
 
 <div align="center">
   
-Frontend Development
+⭐ Frontend Development
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,html,css,tailwind"/> <br/>
 
-Backend Development
+⭐ Backend Development
 
 <img src="https://skillicons.dev/icons?i=nodejs,express"/> <br/>
 
-Databases
+⭐ Databases
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis"/> <br/>
 
 DevOps & Tools
 
 <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,vscode,postman"/> </div>
+
 
 💡 Engineering Skills
 
@@ -76,9 +77,10 @@ Performance Optimization
 Scalable Backend Design
 
 </td> <td width="50%">
-  
-Computer Science
 
+
+  
+⭐ Computer Science
 Data Structures & Algorithms
 Object-Oriented Programming
 DBMS
@@ -90,12 +92,12 @@ System Design
 🚀 Featured Projects
 
 AlgoMate-AI Powered Learning Platform
-
 Production-ready full-stack application solving real-world problems with scalable architecture.
 
-Tech Stack
 
+⭐ Tech Stack
 React.js Node.js Express.js MongoDB
+
 
 ⭐ Features:
 Authentication & Authorization
@@ -119,35 +121,28 @@ Scalable architecture
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sohilkhan101&theme=github-dark&hide_border=true"/> </div>
 
 
-🏆 Achievements
-
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Sohilkhan101&theme=algolia&no-frame=true&row=1&column=6"/> </div>
 
 
 🌱 Currently Exploring
+
 ☁️ Cloud Architecture
+
 🏗️ System Design
+
 ⚡ Distributed Systems
+
 🔐 Backend Security
+
 🚀 Performance Optimization
+
+
 
 
 🌐 Let's Connect
 
 <div align="center"> <a href="https://www.linkedin.com/in/sohilkhan01/"> <img src="https://img.shields.io/badge/LinkedIn-Sohil%20Khan-0077B5?style=for-the-badge&logo=linkedin"/> </a> 
-<a href="https://github.com/Sohilkhan101"> <img src="https://img.shields.io/badge/GitHub-Sohilkhan101-181717?style=for-the-badge&logo=github"/> </a> 
 <a href="https://leetcode.com/u/sohil_khan/"> <img src="https://img.shields.io/badge/LeetCode-sohil__khan-FFA116?style=for-the-badge&logo=leetcode"/> </a> 
 <a href="mailto:sohil00017@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/> </a> </div>
-
-
-⚡ Developer Mindset
-
-while (true) {
-    learn();
-    build();
-    solve();
-    improve();
-}
 
 
 <div align="center">
